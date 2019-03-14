@@ -22,7 +22,7 @@
 
 ##### Class
 * Access Member 
-  private, protected, public, no modifier
+  * private, protected, public, no modifier
 * Inner Class
 * Enum Types
 
